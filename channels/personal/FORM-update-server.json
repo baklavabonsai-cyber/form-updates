@@ -1,4 +1,4 @@
 {
-  "payload": "{\"protocol\":2,\"kind\":\"server\",\"appId\":\"com.fionn.form\",\"sequence\":3,\"channel\":\"personal\",\"endpoint\":\"https://baklavabonsai-cyber.github.io/form-updates/channels/personal/\",\"assetBases\":[\"https://github.com/baklavabonsai-cyber/form-updates/releases/download/\"]}",
-  "signature": "YQPBRGs8FXoo3YTSes2x5Sd18nUB4sdUuqyF1NiOzvf9Jlyru0MyEfx2VLTZntqLEmbhP05NZGQLe9A5aLsF3ncPUCfejg2dKEDMBNC2oxxYFDadcqQxb8lpicfQGIXdJLwEZ5XLVWah4pJwhvJmqu3HOsm3b3R/HeXcq81lV3k3pDxYW3erobfuTK+opEZYWRg5NQE/jvjX9u5Duiw7uWJFfr+JqkonURBMrIZPic9iVcZ5rCKKisIHCsgXHoUjxTB1kfqjYBzkJLoz95sl5v0a8CHlo0N/fCeTA7/JZMrqRG5h0ZF5CkkxXM4IzPEhR9CHMmNukddLkQ2D1STfLg=="
+  "payload": "{\"protocol\":2,\"kind\":\"server\",\"appId\":\"com.fionn.form\",\"sequence\":4,\"channel\":\"personal\",\"endpoint\":\"https://baklavabonsai-cyber.github.io/form-updates/channels/personal/\",\"assetBases\":[\"https://github.com/baklavabonsai-cyber/form-updates/releases/download/\"]}",
+  "signature": "V7jYlYPTcf6ICGxpYKIoLifATtPVAWF9SydEXzkt8hUMnnCRXVbngj+a6pbI0qUGrViibETIojASiGq1D9iIDNvjfHSZSxCLKhXhby2lrFirCedYYZs2vOv3zHgbOENsp6eedBs98vtyyU5u2r6N8u3eFoy4HVs9UVMAf3DbwTOW7cwc4C55DYKCRSW1c1TpMNkXZ2JN5cKc7pH+we/S8jFItQqnIl6Q11Yk/lmscezhTnmVMp8nGTBlBCMHFoIxgJ/94MKMyjcd7CQ4jbT1v3lDDQMxRCOGHQubb/Kf3izdY3Zhh98LqNmBUNbCkXeZ+OBnu9+hwfx6SOCtXwn3xA=="
 }
